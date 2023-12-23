@@ -14,4 +14,4 @@ The solution is implemented in Go and uses a binary search algorithm to efficien
 - **Time complexity**: O(log(n))
  - The binary search algorithm reduces the search space in each step, resulting in a logarithmic time complexity.
 - **Space complexity**: O(1)
-    -  - The algorithm uses a constant amount of space regardless of the input size. It doesn't require additional memory proportional to the input size.
+    - The algorithm uses a constant amount of space regardless of the input size. It doesn't require additional memory proportional to the input size.
