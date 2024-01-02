@@ -5,6 +5,9 @@ Welcome to my repository containing various algorithms implemented in Go. Each a
     ./question-441
     ./question-744
 ## Table of Contents
+### Binary Search
+
+
 - [Next Greatest Letter](./question-744) - Find the smallest character in a sorted array greater than a given target.
 - [Arrange Coins](./question-441) - Determine the number of complete rows that can be formed with a given number of coins.
 - [Is Perfect Square](./question-367) - Check if a given positive integer is a perfect square.
