@@ -8,4 +8,5 @@ use (
     ./question-744
     ./question-1539
     ./question-35
+    ./question-852
 )
