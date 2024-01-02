@@ -11,6 +11,8 @@ Welcome to my repository containing various algorithms implemented in Go. Each a
 - [Next Greatest Letter](./question-744) - Find the smallest character in a sorted array greater than a given target.
 - [Arrange Coins](./question-441) - Determine the number of complete rows that can be formed with a given number of coins.
 - [Is Perfect Square](./question-367) - Check if a given positive integer is a perfect square.
+- [FindKthPositive Algorithm](./question-1539/) - Find the kth missing positive number.
+- [SearchInsert Algorithm](./question-35/) - Return the index if the target is found in the array or the index if it was inserted.
 
 ## How to Run Tests
 
