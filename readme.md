@@ -13,6 +13,7 @@ Welcome to my repository containing various algorithms implemented in Go. Each a
 - [Is Perfect Square](./question-367) - Check if a given positive integer is a perfect square.
 - [FindKthPositive Algorithm](./question-1539/) - Find the kth missing positive number.
 - [SearchInsert Algorithm](./question-35/) - Return the index if the target is found in the array or the index if it was inserted.
+- [Peak Index In Mountain Array](./question-852/) - Find the largest Number in a Mountain Array.
 
 ## How to Run Tests
 
