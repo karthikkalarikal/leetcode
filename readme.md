@@ -5,6 +5,10 @@ Welcome to my repository containing various algorithms implemented in Go. Each a
     ./question-441
     ./question-744
 ## Table of Contents
+
+### Search
+- [Intersection of Two Arrays](./question-349/) - intersection of elements of two unsorted arrays.
+
 ### Binary Search
 
 
