@@ -1,0 +1,3 @@
+module question-350
+
+go 1.21.3

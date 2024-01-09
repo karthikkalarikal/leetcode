@@ -19,14 +19,18 @@ func TestIntersection(t *testing.T) {
 		{
 			"test1",
 			args{[]int{1, 2, 2, 1}, []int{2, 2}},
-			[]int{2},
+			[]int{2, 2},
 		},
 		{
 			"test2",
 			args{[]int{4, 9, 5}, []int{9, 4, 9, 8, 4}},
 			[]int{4, 9},
 		},
-		
+		{
+			"test3",
+			args{[]int{3, 1, 2}, []int{1, 1}},
+			[]int{ 1},
+		},
 	}
 
 	for _, tt := range tests {
