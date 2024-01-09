@@ -14,6 +14,7 @@ Welcome to my repository containing various algorithms implemented in Go. Each a
 - [FindKthPositive Algorithm](./question-1539/) - Find the kth missing positive number.
 - [SearchInsert Algorithm](./question-35/) - Return the index if the target is found in the array or the index if it was inserted.
 - [Peak Index In Mountain Array](./question-852/) - Find the largest Number in a Mountain Array.
+- [Count Negative Numbers In A Sorted Satrix](./question-1351/) - Quantify the negative numbers in a sorted 2d array
 
 ## How to Run Tests
 
@@ -26,3 +27,6 @@ To ensure the correctness of the algorithms, you can run the included tests. Fol
 3. Run the tests using the following command:
    ```bash
    go test
+
+
+   ![Tux, the Linux mascot](/assets/images/tux.png)
