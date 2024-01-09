@@ -16,7 +16,7 @@ Welcome to my repository containing various algorithms implemented in Go. Each a
 - [Peak Index In Mountain Array](./question-852/) - Find the largest Number in a Mountain Array.
 - [Count Negative Numbers In A Sorted Satrix](./question-1351/) - Quantify the negative numbers in a sorted 2d array
 
-## How to Run Tests
+## How to Run Tests  ![Tux, the Linux mascot](/assets/images/tux.png)
 
 To ensure the correctness of the algorithms, you can run the included tests. Follow these steps:
 
@@ -29,4 +29,4 @@ To ensure the correctness of the algorithms, you can run the included tests. Fol
    go test
 
 
-   ![Tux, the Linux mascot](/assets/images/tux.png)
+
