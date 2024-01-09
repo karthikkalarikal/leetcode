@@ -13,9 +13,13 @@ jobs:
 
     steps:
       - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+      - name: Set up Go
         uses: actions/setup-go@v2
         with:
-          go-version: 1.21.3
+          go-version: 1.21.3 
 
       - name: Run Tests
         run: make test
