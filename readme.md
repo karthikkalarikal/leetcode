@@ -18,7 +18,8 @@ Welcome to my repository containing various algorithms implemented in Go. Each a
 - [FindKthPositive Algorithm](./question-1539/) - Find the kth missing positive number.
 - [SearchInsert Algorithm](./question-35/) - Return the index if the target is found in the array or the index if it was inserted.
 - [Peak Index In Mountain Array](./question-852/) - Find the largest Number in a Mountain Array.
-- [Count Negative Numbers In A Sorted Satrix](./question-1351/) - Quantify the negative numbers in a sorted 2d array
+- [Count Negative Numbers In A Sorted Satrix](./question-1351/) - Quantify the negative numbers in a sorted 2d array.
+- [Intersection of Two Arrays ii](./question-350/) - intersection of elements of two sorted arrays, limited memeory for 2nd array. 
 
 ## How to Run Tests  
 
