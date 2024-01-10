@@ -25,5 +25,5 @@ jobs:
         run: make test
 
       - name: Merge to Main
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-        run: git merge &{{ github.event_before }}
+        if: github.ref != 'refs/heads/main' && github.base_ref == 'refs/heads/main'
+        run: git merge origin/$\{\{ github\.base\_ref \}\}\
