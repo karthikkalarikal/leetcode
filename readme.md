@@ -1,4 +1,4 @@
-[![LeetCode Badge](https://img.shields.io/endpoint?url=https://leetcode-badge.vercel.app/api/?username=karthikkalarikal009&style=flat&logo=leetcode)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+[![LeetCode Badge](https://img.shields.io/endpoint?url=https://leetcode-badge.vercel.app/api/?username=karthikkalarikal009&style=flat&logo=leetcode)](https://leetcode.com/karthikkalarikal009/)
 
 
 # Algorithms in Go
