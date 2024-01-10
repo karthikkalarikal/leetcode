@@ -20,6 +20,7 @@ Welcome to my repository containing various algorithms implemented in Go. Each a
 - [Peak Index In Mountain Array](./question-852/) - Find the largest Number in a Mountain Array.
 - [Count Negative Numbers In A Sorted Satrix](./question-1351/) - Quantify the negative numbers in a sorted 2d array.
 - [Intersection of Two Arrays ii](./question-350/) - intersection of elements of two sorted arrays, limited memeory for 2nd array. 
+- [Fair Candy Swap](./question-888/) - To figure out hot to equalize the sum of two arrays by interchanging an element from each.
 
 ## How to Run Tests  
 
