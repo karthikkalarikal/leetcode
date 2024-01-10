@@ -12,4 +12,5 @@ use (
     ./question-1351
     ./question-349
     ./question-350
+    ./question-888/
 )

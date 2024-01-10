@@ -7,7 +7,8 @@ MODULES = \
 	./question-852 \
 	./question-1351 \
 	./question-349 \
-	./question-350
+	./question-350 \
+	./question-888 \
 
 .PHONY: test
 
