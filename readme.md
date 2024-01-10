@@ -1,3 +1,6 @@
+[![LeetCode Badge](https://img.shields.io/endpoint?url=https://leetcode-badge.vercel.app/api/?username=karthikkalarikal009&style=flat&logo=leetcode)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+
+
 # Algorithms in Go
 
 Welcome to my repository containing various algorithms implemented in Go. Each algorithm comes with a detailed explanation, complexity analysis, and usage guidance. Feel free to explore, learn, and contribute!
